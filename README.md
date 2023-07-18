@@ -1,4 +1,4 @@
-# BuildingMLSolutionsWithTensorFlow.js
+# Building Machine Learning Solutions with TensorFlow.js 2
 
 Pluralsight Building Machine Learning Solutions with TensorFlow.js Course
 
